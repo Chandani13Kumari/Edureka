@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:Chandani13Kumari/Edureka/maven-samples.git</connection>
     <developerConnection>scm:git:git@github.com:Chandani13Kumari/Edureka/maven-samples.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/gabrielf/maven-samples</url>
+    <url>http://github.com/Chandani13Kumari/Edureka/maven-samples</url>
   </scm>
 
   <prerequisites>
